@@ -1,6 +1,6 @@
 # Table of contents
 
-* [kubernetes](README.md)
+* [SRE](README.md)
 * [golang](golang-test.md)
 * [linux](test.md)
 

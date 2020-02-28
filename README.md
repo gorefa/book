@@ -2,7 +2,7 @@
 description: kubernetes study
 ---
 
-# kubernetes
+# SRE
 
 ## Getting Super Powers
 
